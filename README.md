@@ -1,7 +1,7 @@
 #🔥 𝗛𝗔𝗗𝗘𝗦-𝗕𝗢𝗧-𝗠𝗗🔥
 Bot terminado no recibirá más actualizaciones ✨ 
 
-<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/573213571089" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 ###𝐐𝐮𝐢𝐞𝐫𝐞 𝐭𝐞𝐧𝐞𝐫 𝐮𝐧 𝐛𝐨𝐭 𝟐𝟒/𝟕 𝐚𝐜𝐭𝐢𝐯𝐨
