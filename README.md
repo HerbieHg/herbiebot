@@ -3,14 +3,6 @@ Bot terminado no recibirá más actualizaciones ✨
 
 <a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0)
-
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ)
-
-[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KnpPbr8BN4VDLtwJFMNTtw)
-
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/4eA5nDxPjOA)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 
 ###𝐐𝐮𝐢𝐞𝐫𝐞 𝐭𝐞𝐧𝐞𝐫 𝐮𝐧 𝐛𝐨𝐭 𝟐𝟒/𝟕 𝐚𝐜𝐭𝐢𝐯𝐨
 
