@@ -1,13 +1,13 @@
-#🔥 𝗛𝗔𝗗𝗘𝗦-𝗕𝗢𝗧-𝗠𝗗🔥
+#🔥 𝑯𝑬𝑹𝑩𝑰𝑬𝑩𝑶𝑻🔥
 Bot terminado no recibirá más actualizaciones ✨ 
 
 <a href="http://wa.me/573213571089" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
-###𝐐𝐮𝐢𝐞𝐫𝐞 𝐭𝐞𝐧𝐞𝐫 𝐮𝐧 𝐛𝐨𝐭 𝟐𝟒/𝟕 𝐚𝐜𝐭𝐢𝐯𝐨
 
-<p align="hihg">   
-<a href="https://portal.acidicnodes.com" target="_blank"> <img src="https://img.shields.io/badge/-AcidicNodes-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+𝑬𝑳 𝑴𝑬𝑱𝑶𝑹 𝑩𝑶𝑻 𝑷𝑨𝑹𝑨 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷
+
+
 
 -----
 
