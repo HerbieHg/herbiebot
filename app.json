@@ -1,7 +1,7 @@
 {
-  "name": "Hadesbot-MD", 
+  "name": "Herbiebot", 
   "description": "Super Bot WhatsApp",
-  "repository": "Hades bot ",
+  "repository": "Herbiebot",
   "logo": "https://i.imgur.com/AmzlKVi.jpeg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
