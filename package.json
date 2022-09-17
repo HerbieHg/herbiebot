@@ -1,5 +1,5 @@
 {
-    "name": "Hadesbot",
+    "name": "Herbiebot",
     "version": "1.0.30",
     "description": "Super Bot WhatsApp",
     "main": "index.js",
@@ -19,8 +19,8 @@
         "name": "hades"
     },
     "repository": {
-        "type": "https://github.com/Yovanihades1212/HADES-BOT-MDV2.git",
-        "url": "https://github.com/Yovanihades1212/HADES-BOT-MDV2.git"
+        "type": "https://github.com/HerbieHg/herbiebot",
+        "url": "https://github.com/HerbieHg/herbiebot"
     },
     "bugs": {
         "url": "https://github.com/Yovanihades1212/HADES-BOT-MDV2/issues"
