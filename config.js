@@ -5,15 +5,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['573213571089', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['573213571089'],
+  ['573213571089'],
+  ['573213571089'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['573213571089'], 
 global.prems = [] 
 global.APIs = { // API Prefix.
   
@@ -71,8 +71,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
-global.author = '𓈃ּ ៹🍏𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.packname = '𓈃ּ ៹🍏𝑯𝒆𝒓𝒃𝒊𝒆𝒃𝒐𝒕𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.author = '𓈃ּ ៹🍏𝐻𝐸𝑅𝐵𝐼𝐸𝐻𝐺𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,7 +82,7 @@ global.author = '𓈃ּ ៹🍏𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸𐂂!s⁹⁷
 global.vs = '1.0.30'
 global.version = vs
 
-global.gt = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.gt = '𓈃ּ ៹🍏𝑯𝒆𝒓𝒃𝒊𝒆𝒃𝒐𝒕𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 global.hadesbot = gt
 
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
@@ -91,17 +91,17 @@ global.youtube = yt
 global.ig = 'https://www.instagram'
 global.hadesig = ig
 
-global.md = 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git'
-global.hadesbot = md
+global.md = 'https://github.com/HerbieHg/herbiebot'
+global.herbiebot = md
 
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = ''
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = ''
 global.nnngrupo = nnn
 
-global.paypal = 'https://pay'
-global.donar = paypal
+
+
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -134,8 +134,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸|𝙷𝚊𝚍𝚎𝚜-𝚋𝚘𝚝-𝙼𝙳'
-global.igfg = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.wm = '𝐇𝐄𝐑𝐁𝐈𝐄𝐇𝐆|𝑯𝒆𝒓𝒃𝒊𝒆𝒃𝒐𝒕'
+global.igfg = '𓈃ּ ៹🍏𝑯𝒆𝒆𝒓𝒃𝒊𝒆𝒃𝒐𝒕𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
