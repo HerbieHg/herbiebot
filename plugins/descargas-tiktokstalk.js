@@ -9,7 +9,7 @@ if (res.status !== 200) throw await res.text()
 if (!json.status) throw json
 let thumb = await (await fetch(json.result.user_picture)).buffer()
 let hades = `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏𝑯𝒆𝒓𝒃𝒊𝒆𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏👤 𝙐𝙎𝙐𝘼𝙍𝙄𝙊(𝘼) | 𝙐𝙎𝙀𝙍
 ├❏🔮${json.result.username}
 ├❏────ׂ─ׂ─ׂ─ׂ─
