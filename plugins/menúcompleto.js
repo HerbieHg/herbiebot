@@ -60,7 +60,7 @@ readmore: readMore
 }
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 let str = `
-┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
+┌──「𓈃ּ ៹🍏𝑯𝒆𝒓𝒃𝒊𝒆𝒃𝒐𝒕𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${name}💖✨ 
 ├❏ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
 ├❏ 🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
@@ -490,42 +490,7 @@ let str = `
 ├❏🧑‍💻${usedPrefix}añadirdiamantes <@tag> <cantidad
 ├❏🏯${usedPrefix}añadirxp <@tag> <cantidad
 └────ׂ─ׂ─ׂ─ׂ───
-┌──「🧼𝐇𝐄𝐍𝐓𝐀𝐈」─
-├❏☔{usedPrefix}pack
-├❏🔞${usedPrefix}pack2
-├❏☄️${usedPrefix}pack3
-├❏🌚${usedPrefix}videoxxx
-├❏🧼${usedPrefix}tetas
-├❏☔${usedPrefix}booty
-├❏🔞${usedPrefix}ecchi
-├❏☄️${usedPrefix}furro
-├❏🌚${usedPrefix}imagenlesbians
-├❏🧼${usedPrefix}panties
-├❏☔${usedPrefix}pene
-├❏🔞${usedPrefix}porno
-├❏☄️${usedPrefix}porno2
-├❏🌚${usedPrefix}randomxxx
-├❏🧼${usedPrefix}pechos
-├❏☔${usedPrefix}vagina
-├❏🔞${usedPrefix}tetasgrandes
-├❏☄️${usedPrefix}pornovideo
-├❏🌚${usedPrefix}yaoi
-├❏🧼${usedPrefix}yaoi2
-├❏☔${usedPrefix}yuri
-├❏🔞${usedPrefix}yuri2
-├❏☄️${usedPrefix}trapito
-├❏🌚${usedPrefix}hentai
-├❏🧼${usedPrefix}pies
-├❏☔{usedPrefix}nsfwloli
-├❏🔞${usedPrefix}nsfworgy
-├❏☄️${usedPrefix}nsfwfoot
-├❏🌚${usedPrefix}nsfwass
-├❏🧼${usedPrefix}nsfwbdsm
-├❏☔${usedPrefix}nsfwcum
-├❏🔞️${usedPrefix}nsfwero
-├❏☄️${usedPrefix}nsfwfemdom
-├❏🧼${usedPrefix}nsfwglass
-└────ׂ─ׂ─ׂ─ׂ───
+
 ┌──「🛠𝐓𝐎𝐎𝐋𝐒 𝐌𝐄𝐍𝐔」
 ├❏🔧${usedPrefix}afk <motivo
 ├❏🛠️${usedPrefix}acortar <enlace / link / url
