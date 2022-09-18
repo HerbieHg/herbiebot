@@ -5,7 +5,7 @@ const { video, channel } = await youtubeSearch(text)
 let teks = [...video, ...channel].map(v => {
 switch (v.type) {
 case 'video': return `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏𝑯𝐞𝐫𝐛𝐢𝐞𝐛𝐨𝐭𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏✨ *${v.title}* 
 ├❏🎈 (${v.url})
 ├❏⏳ *Duración:* ${v.durationH}
@@ -13,7 +13,7 @@ case 'video': return `
 ├❏👀 *Vistas:* ${v.view} 
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
       case 'channel': return `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏𝑯𝐞𝐫𝐛𝐢𝐞𝐛𝐨𝐭𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏✨ *${v.channelName}* 
 ├❏(${v.url})
 ├❏👥 *Subscriptores:* ${v.subscriberH} 
@@ -23,7 +23,7 @@ case 'video': return `
     }
   }).filter(v => v).join('\n「───ׂ─ׂ─ׂ─ׂ───」\n')
  await m.reply(teks)
- let info = `💖𝚃𝚄 𝙿𝙴𝙳𝙸𝙳𝙾 𝙵𝚄𝙴 𝙴𝙽𝚅𝙸𝙰𝙳𝙾 𝙲𝙾𝙽 É𝚇𝙸𝚃𝙾🥳 𝙳𝙴𝚂𝙴𝙰𝚂 𝙿𝙴𝙳𝙸𝚁 𝙰𝙻𝙶𝙾 𝙼Á𝚂👩‍💻\n\n💖𝚈𝙾𝚄𝚁 𝙾𝚁𝙳𝙴𝚁 𝚆𝙰𝚂 𝚂𝙴𝙽𝚃 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈, 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃🥳 𝚃𝙾 𝙾𝚁𝙳𝙴𝚁 𝚂𝙾𝙼𝙴𝚃𝙷𝙸𝙽𝙶 𝙴𝙻𝚂𝙴?👩‍💻
+ let info = `💖𝚃𝚄 𝙿𝙴𝙳𝙸𝙳𝙾 𝙵𝚄𝙴 𝙴𝙽𝚅𝙸𝙰𝙳𝙾 𝙲𝙾𝙽 É𝚇𝙸𝚃𝙾🥳 𝙳𝙴𝚂𝙴𝙰𝚂 𝙿𝙴𝙳𝙸𝚁 𝙰𝙻𝙶𝙾 𝙼Á𝚂👩‍💻\
   `.trim()
 await conn.sendHydrated(m.chat, info, wm, null, md, '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐄𝐒𝐓𝐀𝐃𝐎', '/estado'],
