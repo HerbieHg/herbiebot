@@ -87,7 +87,7 @@ rows: [
     {title: "│📔│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙶𝙲𝙾𝙽𝙻𝚈", description: "𝙴𝙻 𝙱𝙾𝚃 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁𝙰 𝙰 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚂𝙸 𝙴𝚂 𝚄𝙽 𝙶𝚁𝚄𝙿𝙾", rowId: `${usedPrefix}disable gconly`}, 
     {title: "│🏢│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙶𝙲𝙾𝙽𝙻𝚈", description: "𝙴𝙻 𝙱𝙾𝚃 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁𝙰 𝙰 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚂𝙸 𝙴𝚂 𝚄𝙽 𝙶𝚁𝚄𝙿𝙾", rowId: `${usedPrefix}enable gconly`},
    {title: "│🏛️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙶𝙲𝙾𝙽𝙻𝚈", description: "𝙴𝙻 𝙱𝙾𝚃 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁𝙰 𝙰 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚂𝙸 𝙴𝚂 𝚄𝙽 𝙲𝙷𝙰𝚃 𝙿𝚁𝙸𝚅𝙰𝙳𝙾", rowId: `${usedPrefix}disable gconly`}, 
-   {title: "│💌│𝙳𝙾𝙽𝙰", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗 𝚍𝚎 𝚍𝚘𝚗𝚊𝚛", rowId: `${usedPrefix}idonar`},
+
    {title: "│📌│𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚂𝙸 𝙱𝙾𝚃", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚎𝚕 𝚖𝚎𝚗𝚞 𝚍𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗", rowId: `${usedPrefix}informaciónbot`},
    {title: "│👩‍💻️│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝚗𝚝𝚒𝚙𝚛𝚒𝚟𝚊𝚍𝚘", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚙𝚞𝚎𝚍𝚎 𝚜𝚎𝚛 𝚞𝚜𝚊𝚍𝚘 𝚙𝚘𝚛 𝚎𝚕 𝚐𝚛𝚞𝚙𝚘  𝚙𝚛𝚘𝚙𝚒𝚎𝚝𝚊𝚛𝚒@ 𝚍𝚎𝚕 𝚋𝚘𝚝", rowId: `${usedPrefix}enable antiprivado`},
    {title: "│👥️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝚗𝚝𝚒𝚙𝚛𝚒𝚟𝚊𝚍𝚘", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚙𝚞𝚎𝚍𝚎 𝚜𝚎𝚛 𝚞𝚜𝚊𝚍𝚘 𝚙𝚘𝚛 𝚎𝚕 𝚐𝚛𝚞𝚙𝚘  𝚙𝚛𝚘𝚙𝚒𝚎𝚝𝚊𝚛𝚒@ 𝚍𝚎𝚕 𝚋𝚘𝚝", rowId: `${usedPrefix}disable antiprivado`},
