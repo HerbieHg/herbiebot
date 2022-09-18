@@ -2,12 +2,12 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let texto1 = `
-┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
+┌──「𓈃ּ ៹🍏𝑯𝒆𝒓𝒃𝒊𝒆𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
 ├❏𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤 | 𝘾𝙤𝙣𝙩𝙖𝙘𝙩
-├❏Wa.me/5212411347467 (BOT)
-├❏Wa.me/5212411261883 (BOT) 
-├❏Wa.me/5212411719888 (CREADOR)
-├❏Wa.me/5212411347465 (CREADOR)
+
+
+├❏Wa.me/573213571089 (CREADOR)
+├❏Wa.me/573213571089 (CREADOR)
 └────ׂ─ׂ─ׂ─ׂ───`
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
@@ -19,13 +19,13 @@ let buttonMessage= {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/HerbieHg/herbiebot',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': },
 'caption': texto1,
 'footer': wm,
 'buttons':[
