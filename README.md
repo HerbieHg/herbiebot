@@ -21,8 +21,8 @@ POR EL MOMENTO NO ESTÁ DISPONIBLE PARA TERMUX
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├❏cd HADES-BOT-MDV2
+├❏git clone https://github.com/HerbieHg/herbiebot
+├❏cd herbiebot
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update
@@ -59,22 +59,7 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento (depende del WhatsApp igual)
 └────ׂ─ׂ─ׂ─ׂ───
 ```
-### `AJUSTES`
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/Yovanihades1212/HADES-BOT-MDV2/blob/master/config.js)
-> ##### WhatsApp recomendado por el creador del Bot
-* [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/o80pni1rfi0n6zz/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_PRIMARIO.apk/file).
 
-* [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file).
-## `PORPIETARIO DEL BOT` 
-[![Yovanihades1212](https://i.imgur.com/lkch77g.jpeg)](https://github.com/Yovanihades1212/HADES-BOT-MDV2.git) 
-```bash
-
-
-
-
-
-`OFC-YOVANI___HADES-BOT-MDV2"` 
-```
 
  
 
