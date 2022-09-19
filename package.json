@@ -14,9 +14,9 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://Yovanihades1212:Akhmad6825@cluster0.mflne.mongodb.net/HADES-BOT-MDV2?retryWrites=true&w=majority'"
     },
-    "homepage": "hadesbot",
+    "homepage": "herbiebot",
     "author": {
-        "name": "hades"
+        "name": "herbiebot"
     },
     "repository": {
         "type": "https://github.com/HerbieHg/herbiebot",
