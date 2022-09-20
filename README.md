@@ -1,7 +1,7 @@
 #🔥 𝑯𝑬𝑹𝑩𝑰𝑬𝑩𝑶𝑻🔥
 Bot terminado no recibirá más actualizaciones ✨ 
 
-<a href="http://wa.me/573213571089" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+<a href="http://wa.me/573213571089" target="blank"><img src="https://img.shields.io/badge/creador-herbie-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
 
 
 
