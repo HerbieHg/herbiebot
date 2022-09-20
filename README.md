@@ -41,13 +41,13 @@ POR EL MOMENTO SOLO ESTÁ DISPONIBLE PARA TERMUX
 ├❏config.js
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
-├❏> cd HADES-BOT-MDV2 
+├❏> cd herbiebot
 ├❏> rm -rf session.data.json
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Si el termux se cierra para volver activar escribe:
-├❏> cd HADES-BOT-MDV2 
+├❏> cd herbiebot
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ├❏> Cada vez que realices una modificacion en el
