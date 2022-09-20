@@ -26,9 +26,9 @@ say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP 𝑯�
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.8.9
 [•]-ESTADO : ACTIVO
-[•]-Owner : 𝑯𝑬𝑹𝑩𝑰𝑬𝑯𝑮
-[•]-GRACIAS POR USAR LE BOT DE 𝑯𝑬𝑹𝑩𝑰𝑬
-[•]-CERRADO EL BOT 𝑯𝑬𝑹𝑩𝑰𝑬
+[•]-Owner : herbie
+[•]-GRACIAS POR USAR EL BOT DE herbie
+[•]-CERRADO EL BOT HERBIE
 |< ================================================== >|`, {
   font: 'console',
   align: 'center',
