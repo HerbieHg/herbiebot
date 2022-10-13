@@ -1,3 +1,5 @@
+[![6348331b9255d.jpg](https://i.postimg.cc/m2zHXfmQ/6348331b9255d.jpg)](https://postimg.cc/6yKqqSJ3)
+
 #🔥 𝑯𝑬𝑹𝑩𝑰𝑬𝑩𝑶𝑻🔥
 Bot terminado no recibirá más actualizaciones ✨ 
 
